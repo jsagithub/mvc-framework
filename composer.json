@@ -1,0 +1,15 @@
+{
+    "name": "root/app",
+    "authors": [
+        {
+            "name": "Jose Sa",
+            "email": "jsa_epe@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "src"
+        }
+    }
+}
